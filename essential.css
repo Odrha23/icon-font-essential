@@ -26,7 +26,6 @@
   font-family: essential;
         font-size: 20px;
 font-style: normal;
-margin-left: 20px;
 }
 
 .essential-add:before { content: "\f100"; }
